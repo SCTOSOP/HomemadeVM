@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# 自定义添加
+VirtualBox-6.1.34
+VirtualBox-6.1.34.tar.bz2
+
 # User-specific files
 *.rsuser
 *.suo
